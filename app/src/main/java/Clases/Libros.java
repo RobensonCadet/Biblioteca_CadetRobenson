@@ -5,14 +5,18 @@ public class Libros {
     private int Farenheit;
     private int Revival;
     private int ElAlquimista;
+    private int ElPoder;
+    private int Despertar;
 
 
 
     public Libros()
     {
-        Farenheit = 5000;
-        Revival= 12000;
+        Farenheit = 7000;
+        Revival= 22000;
         ElAlquimista = 45000;
+        ElPoder = 88000;
+        Despertar = 15600;
     }
 
 
